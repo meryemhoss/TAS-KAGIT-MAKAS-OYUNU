@@ -1,2 +1,2 @@
-# TAS KAGIT MAKAS OYUNU
- Python ile Google Colab üzerinden geliştirilmiştir.
+# **TAS KAGIT MAKAS OYUNU**
+ Python ile  geliştirilmiştir.
